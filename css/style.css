@@ -1,0 +1,53 @@
+
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+    font-family: 'Freckle Face', cursive;
+
+    font-family: 'Oxygen', sans-serif;
+    background:url(../img/love.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.main-area{
+    width: 50%;
+    margin: 0px auto;
+}
+
+.form-area{
+	background: #ff00601c;
+    padding: 25px;
+
+}
+.form-area img{
+	width: 145px;
+   display: block;
+   margin: 0px auto;
+
+}
+
+.form-area h2{
+    text-align: center;
+    color: #8bbd1b7d;
+    font-size: 26px;
+    margin:10px auto;
+
+}
+.form-admin {
+width: 100%;
+margin-bottom: 6px;
+height: 27px;
+padding: 5px;
+text-align: center;
+}
+.sub{
+	background:green;
+	color:blue;
+	padding:5px 20px;
+	display: block;
+	margin: 0 auto;
+	font-size: 20px;
+	border:none;
+}
